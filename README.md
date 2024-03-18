@@ -27,3 +27,9 @@ Questionnement et note en pagaille:
 - Acceuil du dashboard avec un exemple en screenshot, bouton pour commencer
 - Avoir un tuto / guide pour expliquer comment utiliser le dashboard
 - 
+
+
+  --
+  Première maquette :
+
+  ![image](https://github.com/Oiwawa/spike-hub/assets/78601126/503ed860-65a4-488b-9c9b-f6b25f2cfb57)
